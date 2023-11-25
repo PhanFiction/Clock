@@ -17,7 +17,7 @@ const config: Config = {
         white: "#fff",
         turquoise: "#63e2c6",
         aqua: "#6ef9f5",
-        mediumseagreen: "#399e5a",
+        mediumseagreen: "#466751",
       },
       fontFamily: {
         itim: "Itim",
